@@ -1,0 +1,14 @@
+{
+  "name": "graphql-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zcericola/graphql-sandbox.git",
+  "author": "Zac Cericola <zcericola@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "node-fetch": "^2.1.2"
+  }
+}
